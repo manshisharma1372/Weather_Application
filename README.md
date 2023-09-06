@@ -1,5 +1,5 @@
 # Weather-Application
-An Interactive application which tells the weather of a CIty using Weather API.
+An Interactive application which tells the weather of a CIty using Weather API./
 Weather App is live at https://manshisharma1372.github.io/Weather_Application/
 
 # Glimpse:
