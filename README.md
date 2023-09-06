@@ -1,2 +1,3 @@
-# Weather_Application
-Project Weather Application using API and JavaScript
+# Weather-Application
+An Interactive application which tells the weather of a CIty using Weather API.
+
